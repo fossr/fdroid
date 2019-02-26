@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="default-repo-icon.png" name="FOSSR" pubkey="30820503308202eba003020102020406791fa5300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3139303232363135303133325a170d3436303731343135303133325a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a02820201008b670ff31ad35fa15681c8f237cb1dda0958243e39d03f57fa180dd496be52387b25eb998474f262a3b833037c7351d52e335c1265a453f236eb7f943733d0252791f2334f5e9b48c4370cf9c831d67aa4d99d959f7144a1b8a8b24ccea03bae4d84ed068168273df3d5c85506c92afda6bc167e7dc7c447c1dddd76de0f15cad879b8b051c555778910c0a29c28174cf044b9169d7bbd173314ff4655b137427dc6807bd6d2341eccc3a5d328fb060c2cedf9d8a0ed882579198149cb81c99b80f4a4c30da3566cdf744ca2d223dd293f0bdec41d266ee906a874ce084d52e161a5089a8e7b6fe639237a04bdad49e8fa74965ac5e20bc1a3a8ec938bbb5c40539428054dff5f4ba73f6ecde74f8adad54656bcf8a833bc213b9b9efdb47a8fb2aac49924ab900c5163f18816d8a763c6e534e5acab41974ca2cbe1ae021fd6809c572ab34dedf67e242e24797aec5925c5cb1d670a37b600a5e3deb7b7365af21bbc168f738c150da687c3db86a8219ec04facfa4358a0b644c302926326cb6be18b85af91e9e838cbb39cd43c14d268649ace185edfb3af2443482e52d09869c72a2601b1a6fe19e4d0146ae340d591a28d3a28a9a4dc1ce5f6cb74dde8b2c742d01b00b18ff70e1ce60888082e8fcbac7c2af473d2556f53e5a1646d106987de2841b066d93c85bdacafd0f5e74bd4d29ef443bf1469248913d3fc3d390d0203010001a321301f301d0603551d0e0416041447d23d44b0b9bd437ee8fbb73b8a5eb2c56df23b300d06092a864886f70d01010b05000382020100078116f018c886ed01510ea2c60b942154366ef614efb904f47fac98c2baea5cfd313c3ddfb22767abd206cf8dc8e5b676a6e5e681777119a97519c449bd8d99528e190cb49015fd735d53eeaf0297c5548a2e16d5278a9082611d5646bb4423e4d1c11a505b920661a4b3a8c84f2020d40c0f08651e7865b16f56508958dda73153932168301749a9a9410e62b186d64a19f35d98ca5f3bb482723edb474889f4c68c841448f3dd5098cd79af2e253e5c83aa6de213d45dd24948efb9a866d6d283a1541cefbfa2cddd9665fab8b6733fdc7cebbf0731ca5355402e35eb97577e1630c84da6a20ae91954a0a5de43e4b7649b1c057612e51d24ac903d2943d296ae66a2a2f5a3e16676e77cb4a463ce443a7eb5f4519203c823a159560bc453715de8a237cfa4dfbe5ef0576451478100b06201777989073571d5be5e4de66a0c2b5e7d1b2463a0f71c9ebd4c39e320988db107c3f70bf0f34c100ed9aa368e8b9fabe274ca2b028f6f9ac7e0a1b9afcbac91a848c90ca0f2f7b649add6c2ddfc88d50abb03d2f59a2daece7ba10067d9f012265a722875fada4858e2b3b823d5604c271d7ba5ddcc20d5497af16be86705d9b4545d70f7f4cb8226fd15f7528f19cd6413a6a67c12dc660341751d36e3145d21e4b572827fdf18625b8327b541eeb928e1e3d55d10232959e198d503a57d2d50fc25d61d1d41c53c321419c7" timestamp="1551194115" url="https://fossr.github.io/fdroid" version="18">
+		<description>Free open source software repository</description>
+		<mirror>https://fossr.github.io/fdroid/fdroid</mirror>
+	</repo>
+	<application id="org.xdty.callerinfo">
+		<id>org.xdty.callerinfo</id>
+		<added>2019-02-26</added>
+		<lastupdated>2019-02-26</lastupdated>
+		<name>CallerInfo</name>
+		<summary></summary>
+		<icon>org.xdty.callerinfo.61.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<author>xdtianyu</author>
+		<marketversion></marketversion>
+		<marketvercode>61</marketvercode>
+		<package>
+			<version>2.5.5</version>
+			<versioncode>61</versioncode>
+			<apkname>CallerInfo-v2.5.5-release.apk</apkname>
+			<hash type="sha256">6d88df7da69d1fe6335db4faf844cfbb0140ee6b44dae5cd6d36070c0613ae32</hash>
+			<size>6658915</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2019-02-26</added>
+			<sig>3c265e1b9e661fdf4eeb04e3f358c5c9</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,PROCESS_OUTGOING_CALLS,READ_CALL_LOG,READ_CONTACTS,READ_LOGS,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,SYSTEM_ALERT_WINDOW,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+		</package>
+	</application>
+</fdroid>

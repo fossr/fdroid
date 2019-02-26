@@ -1,0 +1,106 @@
+{
+  "repo": {
+    "timestamp": 1551194115426,
+    "version": 18,
+    "name": "FOSSR",
+    "icon": "default-repo-icon.png",
+    "address": "https://fossr.github.io/fdroid",
+    "description": "Free open source software repository",
+    "mirrors": [
+      "https://fossr.github.io/fdroid/fdroid"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "authorName": "xdtianyu",
+      "suggestedVersionCode": "61",
+      "license": "Unknown",
+      "name": "CallerInfo",
+      "added": 1551193802366,
+      "icon": "org.xdty.callerinfo.61.png",
+      "packageName": "org.xdty.callerinfo",
+      "lastUpdated": 1551193809593,
+      "localized": {
+        "zh-Hans": {
+          "summary": "\u6765\u7535\u4fe1\u606f - \u4e00\u4e2a\u83b7\u53d6\u53f7\u7801\u5f52\u5c5e\u5730\u548c\u5176\u4ed6\u4fe1\u606f\uff08\u8bc8\u9a97\u3001\u9a9a\u6270\u7b49\uff09\u7684\u5f00\u6e90 Android \u5e94\u7528",
+          "description": "<p><a href=\"https://github.com/xdtianyu/callerinfo\">https://github.com/xdtianyu/callerinfo</a></p>\r\n<h2 style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 24px; line-height: 1.25; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';\">\u529f\u80fd</h2>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\">1. \u67e5\u8be2\u6765\u7535\u53f7\u7801\u5e76\u663e\u793a\u60ac\u6d6e\u7a97\uff0c\u663e\u793a\u4f4d\u7f6e\u548c\u5176\u4ed6\u53f7\u7801\u4fe1\u606f\u3002</p>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\">2. \u4e3b\u754c\u9762\u663e\u793a\u6700\u8fd1\u6765\u7535\u5217\u8868(\u4e0d\u4f1a\u5bfc\u5165\u5df2\u6709\u7684\u7cfb\u7edf\u901a\u8baf\u5f55)\u3002</p>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\">3. \u5728\u4e3b\u754c\u9762\u53ef\u4ee5\u67e5\u8be2\u4efb\u610f\u7535\u8bdd\u53f7\u7801\u4fe1\u606f\u3002</p>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\">4. \u81ea\u5b9a\u4e49\u8bbe\u7f6e\u5361\u7247\u53ca\u60ac\u6d6e\u7a97\u7684\u989c\u8272\u3002</p>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\">5. \u81ea\u5b9a\u4e49\u60ac\u6d6e\u7a97, \u5982\u6587\u5b57\u5927\u5c0f\u3001\u900f\u660e\u5ea6\u3001\u4f4d\u7f6e\u3002\u53ef\u4ee5\u81ea\u5b9a\u4e49\u663e\u793a\u4e0e\u9690\u85cf\uff0c\u5982\u5ffd\u7565\u5df2\u5b58\u5728\u7684\u8054\u7cfb\u4eba\u3001\u53bb\u7535\u65f6\u663e\u793a\u3001\u63a5\u542c\u540e\u9690\u85cf\u3002</p>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\">6. \u79bb\u7ebf\u67e5\u8be2\u3002\u4f18\u5148\u4ece\u672c\u5730\u7684\u79bb\u7ebf\u5f52\u5c5e\u5730\u53ca\u5386\u53f2\u8bb0\u5f55\u4e2d\u67e5\u8be2\u6570\u636e\u5e76\u663e\u793a\uff0c\u6ca1\u6709\u67e5\u8be2\u5230\u6807\u8bb0\u6570\u636e\u4e14\u6709\u7f51\u7edc(\u6709 WIFI \u6216\u624b\u673a\u672a\u6389\u7f51)\u65f6\u4f1a\u8054\u7f51\u67e5\u8be2\u3002</p>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\"><span style=\"box-sizing: border-box; font-weight: 600;\">\u9690\u85cf\u529f\u80fd (\u70b9\u51fb\u4e03\u6b21\u7248\u672c\u540e\u51fa\u73b0)</span></p>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\">1. \u81ea\u5b9a\u4e49\u6570\u636e\u6e90\u3002\u53ef\u4ee5\u81ea\u5b9a\u4e49\u767e\u5ea6\u3001\u805a\u5408\u6570\u636e(360)\u7684 API \u5bc6\u94a5\uff0c\u53ef\u4ee5\u81ea\u5b9a\u4e49 API (\u7528\u4e8e\u9002\u914d\u5ba2\u6237\u4fe1\u606f\u7cfb\u7edf)\u3002\u53ef\u4ee5\u8bbe\u7f6e\u5ffd\u7565\u53f7\u7801\u6bb5\u6765\u5ffd\u7565\u67e5\u8be2\uff0c\u53ef\u4ee5\u5f3a\u5236\u4f7f\u7528\u672c\u5730\u79bb\u7ebf\u6570\u636e\u3002</p>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\"><span style=\"box-sizing: border-box; font-weight: 600;\">\u63d2\u4ef6\u529f\u80fd(\u5b89\u88c5\u63d2\u4ef6\u540e\u51fa\u73b0)</span></p>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\">1. \u81ea\u52a8\u6302\u65ad\u3002\u53ef\u4ee5\u81ea\u52a8\u6302\u65ad\u5339\u914d\u7684\u6807\u8bb0\u5173\u952e\u5b57(\u8bc8\u9a97\u3001\u5e7f\u544a\u7b49)\u3001\u5f52\u5c5e\u5730\u3001\u8d77\u59cb\u53f7\u7801(400*)\u3002\u5f52\u5c5e\u5730\u53ef\u9006\u5411\u5339\u914d\uff0c\u5982 \"!\u897f\u5b89 !\u54b8\u9633\" \u5c06\u6302\u65ad\u6240\u6709\u9664 \"\u897f\u5b89\" \"\u54b8\u9633\" \u7684\u6765\u7535\u3002\u8d77\u59cb\u53f7\u7801\u5173\u952e\u5b57\u6dfb\u52a0\u5b8c\u6574\u53f7\u7801\u5e76\u4ee5\u7a7a\u683c\u5206\u9694\u53ef\u4ee5\u5b9e\u73b0 \"\u9ed1\u540d\u5355\" \u7684\u529f\u80fd\u3002</p>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\">2. \u6dfb\u52a0\u53f7\u7801\u4fe1\u606f\u5230\u7cfb\u7edf\u901a\u8bdd\u8bb0\u5f55\u3002\u4f1a\u6dfb\u52a0\u8bc8\u9a97\u3001\u9a9a\u6270\u3001\u5e7f\u544a\u3001\u54cd\u4e00\u58f0\u3001\u81ea\u52a8\u6302\u65ad\u7b49\u4fe1\u606f\u5230\u7cfb\u7edf\u901a\u8bdd\u8bb0\u5f55\u3002</p>\r\n<h2 style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 24px; line-height: 1.25; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';\"><a id=\"user-content-\u8bf4\u660e\" class=\"anchor\" style=\"box-sizing: border-box; background-color: transparent; color: #0366d6; text-decoration-line: none; float: left; line-height: 1; margin-left: -20px; padding-right: 4px;\" href=\"https://github.com/xdtianyu/callerinfo#%E8%AF%B4%E6%98%8E\" aria-hidden=\"true\"></a>\u8bf4\u660e</h2>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\">1. &ldquo;\u6765\u7535\u4fe1\u606f&rdquo; \u7684\u4e0d\u65ad\u6539\u8fdb\u548c\u5b8c\u5584\u79bb\u4e0d\u5f00\u793e\u533a\u7684\u53cd\u9988\uff0c\u975e\u5e38\u611f\u8c22\u6240\u6709\u5728 Play \u5e02\u573a\u3001V\u7ad9\u3001\u9177\u5e02\u573a\u7559\u8a00\u53ca\u53d1\u9001\u90ae\u4ef6\u53cd\u9988\u7684\u670b\u53cb\u3002</p>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\">2. \u5e94\u7528\u5f00\u6e90\u514d\u8d39\u65e0\u5e7f\u544a\uff0c\u8bf7\u653e\u5fc3\u4f7f\u7528\u3002APK \u6587\u4ef6\u901a\u8fc7 Travis CI \u81ea\u52a8\u751f\u6210\u5e76\u4e0a\u4f20\uff0c\u7528\u6237\u53ef\u5728\u6bcf\u4e2a&nbsp;<a style=\"box-sizing: border-box; background-color: transparent; color: #0366d6; text-decoration-line: none;\" href=\"https://github.com/xdtianyu/CallerInfo/releases\">GitHub \u7248\u672c\u53d1\u884c</a>&nbsp;\u4e2d\u627e\u5230\u7f16\u8bd1\u65e5\u5fd7\u6765\u6821\u9a8c\u6587\u4ef6 sha1 \u53ca md5\u3002</p>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\">3. \u8bf7\u907f\u514d\u9650\u5236\u4e3b\u5e94\u7528\u53ca\u63d2\u4ef6\u8bf7\u6c42\u7684\u6743\u9650\u3002\u5982\u51fa\u73b0\u6765\u7535\u65f6\u4e0d\u663e\u793a\u60ac\u6d6e\u7a97\uff0c\u8bf7\u5148\u68c0\u67e5\u6743\u9650\u8bbe\u7f6e\u3001\u6743\u9650\u7ba1\u7406\u7c7b\u578b\u5e94\u7528\u7684\u8bbe\u7f6e\u3002\u5982\u679c\u5b89\u88c5\u4e86\u63d2\u4ef6\uff0c\u8bf7\u786e\u4fdd\u63d2\u4ef6\u548c\u4e3b\u5e94\u7528\u6ca1\u6709\u8fdb\u5165\u7ba1\u7406\u7c7b\u8f6f\u4ef6\u7684\u9ed1\u540d\u5355\u6216\u4f18\u5316\u9879\u76ee\u3002</p>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\">4. \u5982\u679c\u5bf9\u6b64\u5f00\u6e90\u5e94\u7528\u6709\u4efb\u4f55\u4e0d\u6ee1\u3001\u95ee\u9898\u6216\u5efa\u8bae\uff0c\u8bf7\u5728&nbsp;<a style=\"box-sizing: border-box; background-color: transparent; color: #0366d6; text-decoration-line: none;\" href=\"https://github.com/xdtianyu/CallerInfo/issues\">GitHub</a>&nbsp;\u63d0\u4ea4\u95ee\u9898\u5355\u6216\u53d1\u9001\u95ee\u9898\u5230\u4f5c\u8005\u90ae\u4ef6\u3002\u975e\u5e38\u6b22\u8fce\u5927\u5bb6\u53cd\u9988\uff0c\u6765\u548c\u4f5c\u8005\u4e00\u8d77\u5b8c\u5584\u8fd9\u4e2a\u5e94\u7528\u3002</p>\r\n<p style=\"box-sizing: border-box; margin-bottom: 16px; margin-top: 0px; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;\">5. \u5982\u679c\u60a8\u89c9\u5f97\u8fd9\u4e2a\u5e94\u7528\u505a\u7684\u4e0d\u9519\uff0c\u6b22\u8fce\u5728&nbsp;<a style=\"box-sizing: border-box; background-color: transparent; color: #0366d6; text-decoration-line: none;\" href=\"https://github.com/xdtianyu/CallerInfo\">GitHub</a>&nbsp;star\u3001\u5728&nbsp;<a style=\"box-sizing: border-box; background-color: transparent; color: #0366d6; text-decoration-line: none;\" href=\"https://play.google.com/store/apps/details?id=org.xdty.callerinfo\" rel=\"nofollow\">Play \u5e02\u573a</a>&nbsp;\u53ca&nbsp;<a style=\"box-sizing: border-box; background-color: transparent; color: #0366d6; text-decoration-line: none;\" href=\"http://coolapk.com/apk/org.xdty.callerinfo\" rel=\"nofollow\">\u9177\u5e02\u573a</a>&nbsp;\u4e94\u661f\u597d\u8bc4\uff0c\u6b22\u8fce\u60a8\u5c06\u6b64\u5e94\u7528\u901a\u8fc7\u63a8\u7279\u3001\u5fae\u535a\u3001\u670b\u53cb\u5708\u7b49\u793e\u4ea4\u7f51\u7edc\u63a8\u5e7f\u7ed9\u66f4\u591a\u7684\u4eba\u3002</p>\r\n<p>&nbsp;</p>"
+        }
+      }
+    }
+  ],
+  "packages": {
+    "org.xdty.callerinfo": [
+      {
+        "added": 1551193809593,
+        "apkName": "CallerInfo-v2.5.5-release.apk",
+        "hash": "6d88df7da69d1fe6335db4faf844cfbb0140ee6b44dae5cd6d36070c0613ae32",
+        "hashType": "sha256",
+        "minSdkVersion": "14",
+        "packageName": "org.xdty.callerinfo",
+        "sig": "3c265e1b9e661fdf4eeb04e3f358c5c9",
+        "size": 6658915,
+        "targetSdkVersion": "28",
+        "uses-permission": [
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_CALL_LOG",
+            null
+          ],
+          [
+            "android.permission.PROCESS_OUTGOING_CALLS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_LOGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ]
+        ],
+        "versionCode": 61,
+        "versionName": "2.5.5"
+      }
+    ]
+  }
+}
